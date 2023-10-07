@@ -11,3 +11,5 @@ Following are the samples and their description
 3. 003_timing_measurement - This program gives the details of performance measurements in CUDA
 4. 004_concurrent_kernels - This program gives the implementation details of concurrency and concurrent kernels - HtoD Memcpy, Kernel Execution, DtoH Memcpy concurrency
 5. 005_async_api - This program gives the implementation of async memcpy and synchronization using events
+6. 006_assert - This program gives the implementation of using assertions in CUDA kernels
+7. 007_fatbin_kernels - This program gives the implementation of using external CUDA kernels as fatbin files in custom programs
